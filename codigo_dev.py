@@ -1,9 +1,13 @@
+import random
 
-def suma(num1 , num2):
+def search_list(num, size):
+    size = int(input("size: "))
+    num = int(input("num: "))
 
-    return num1 + num2
+    for i in range(size):
+        print(i)
 
 if __name__ == "__main__":
-    num1 = int(input("num1: "))
-    num2 = int(input("num2: "))
-    suma(num1, num2)
+    size = int(input("size: "))
+    num = int(input("num: "))
+    search_list(size, num)
