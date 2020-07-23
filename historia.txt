@@ -7,3 +7,15 @@ En la Plaza de Armas de la ciudad, bordeada de palmeras,
 se encuentra la catedral neoclásica y el Museo de Historia Nacional. 
 El enorme Parque Metropolitano cuenta con piscinas, 
 un jardín botánico y un zoológico.
+
+Santiago
+
+Descripción
+Santiago, la capital y la ciudad más grande de Chile,
+se ubica en un valle rodeado de cimas nevadas de los Andes 
+y la Cordillera de la Costa chilena. La Plaza de Armas,
+el gran núcleo del centro colonial antiguo de la ciudad,
+tiene 2 monumentos neoclásicos: el Palacio de la Real Audiencia 
+de 1808, donde está el Museo Histórico Nacional, 
+y la Catedral Metropolitana del siglo XVIII. 
+La Chascona es la casa transformada en museo del poeta Pablo Neruda.
