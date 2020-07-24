@@ -1,14 +1,19 @@
+import random
 
-def suma(num1 , num2):
-    print(num1 +num2)
+def search_number():
+    range_ = int(input("range: "))
+    size = random.randint(range_)
+    number = int(input("number: "))
 
-def welcome():
-    print("""
-    [+] suma
-    [-] resta
-    """)
+    for i in range(size):
+        print(i)
+        if i == number:
+            print(f" es correcto {number}")
+            break
 
 if __name__ == "__main__":
-    num1 = int(input("num1: "))
-    num2 = int(input("num2: "))
-    suma(num1, num2)
+    search_number()
+    
+
+
+    
