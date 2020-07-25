@@ -14,6 +14,16 @@ def game():
         else:
             print("Es mas pequeño")
             vidas -= 1
- 
+
         if vidas == 0:
             print(f"perdiste el numero era {random_number}")
+            break
+        
+        input_number = int(input("number: "))
+
+
+    if input_number == random_number:
+        print(f"ganaste el numero era {random_number}")
+
+if __name__ == "__main__":
+    game()
