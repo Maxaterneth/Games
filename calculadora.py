@@ -7,7 +7,7 @@ def welcome():
     print("""
     Calculadora:
 
-    
+    (+) suma
     (-) resta
     (/) dividir
     (*) multiplicar
