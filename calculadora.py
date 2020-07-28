@@ -27,6 +27,7 @@ if __name__ == "__main__":
     elif comand == "/":
         dividir()
 
-    elif comand == ""
+    elif comand == "*":
+        multiplicar()
 
         
