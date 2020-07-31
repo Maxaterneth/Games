@@ -10,7 +10,7 @@ def welcome():
     (+) suma
     (-) resta
     (/) dividir
-    (*) multiplicar
+    (*) 
     
     """)
 
